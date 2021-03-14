@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+ * calculate the num of input char 
+ */
 main() {
     long nc;
  
